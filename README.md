@@ -31,13 +31,17 @@ zig版本为0.15.2   C3版本为0.7.10
 
 ### 2.1 排序算法
 
-- **冒泡排序 & 选择排序 (Bubble & Selection Sort)**
+- **冒泡排序  (Bubble)**
 
-    - Zig 实现：[basic_sort.zig](https://github.com/[你的GitHub用户名]/[你的项目名]/blob/main/src/zig/basic_sort.zig)
+    - Zig 实现：[basic_sort.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
 
-    - C3 实现：[basic_sort.c3](https://github.com/[你的GitHub用户名]/[你的项目名]/blob/main/src/c3/basic_sort.c3)
+    - C3 实现：[basic_sort.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
 
+- **桶排序  (Bucket Sort)**
 
+    - Zig 实现：[basic_sort.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.c3)
+
+    - C3 实现：[basic_sort.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
 ## 三、本地编译与运行说明
 
 ### 3.1 Zig 代码运行
