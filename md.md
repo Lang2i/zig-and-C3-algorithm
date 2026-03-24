@@ -13,7 +13,18 @@ Zig version: 0.15.2, C3 version: 0.7.10
 
 The project is organized by algorithm types, with each algorithm corresponding to an independent source file. Click the links below to jump directly to the corresponding code page on GitHub:
 
+- **Bubble Sort**
 
+    - Zig implementation: [mp.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
+
+    - C3 implementation: [mp.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
+
+- **Bucket Sort**
+
+    - Zig implementation: [t.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
+
+    - C3 implementation: [t.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
+    - 
 ## 3. Local Compilation & Execution
 
 ### 3.1 Run Zig Code
