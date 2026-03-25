@@ -90,13 +90,6 @@ Pull requests are welcome for new algorithms, code optimizations, bug fixes, or 
 
 ---
 
-### 翻译说明
-
-- 保持专业、正式、适合 GitHub 开源项目的英文风格
-
-- 术语统一：静态队列 = Static Queue，数据结构 = Data Structures，系统级编程语言 = system-level programming language
-
-- 链接、格式、排版完全对齐原文结构
 
 - 语句流畅自然，符合海外开发者阅读习惯
 > （注：文档部分内容可能由 AI 生成）
