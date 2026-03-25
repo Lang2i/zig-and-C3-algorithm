@@ -1,56 +1,76 @@
-# 🇺🇸 English Version
+# Zig & C3 Algorithms Collection: Version 0.15.2 & 0.7.10
+
+# Zig & C3 Algorithms Collection
+
+**Project Introduction**: This project focuses on implementing various classic algorithms, data structures, and practical algorithm cases using **Zig** and **C3**, two modern system-level programming languages. It balances code readability, performance optimization, and engineering standards, providing directly reusable and learnable algorithm source code for learners and developers of both languages. All code comes with complete comments and test cases, optimized for GitHub online preview and local compilation & execution.
+
+---
+
+# 🌐 Language Switch
+
+Click the links below to quickly switch to the corresponding language section:
+
+- [中文版本说明](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/README.md)
+
+- [English Version](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/md.md)
+
+---
+
+#  English Version
 
 ## 1. Project Overview
 
-This project focuses on implementing various classic algorithms, data structures and practical algorithm cases using **Zig** and **C3**, two modern system-level programming languages. It balances code readability, performance optimization and engineering standardization, providing reusable and learnable algorithm source code for learners and developers of both languages.
+Zig is a modern system-level programming language emphasizing safety, performance, and simplicity. It is compatible with the C language ecosystem and ideal for low-level development and high-performance algorithm implementation. C3 is a new system language extended from C, featuring cleaner syntax and safer typing while retaining the core advantages of C and optimizing the development experience.
 
-Zig is a modern system programming language emphasizing safety, performance and simplicity, fully compatible with the C ecosystem, ideal for low-level development and high-performance algorithm implementation. C3 is a new system language extended from C, with cleaner syntax, safer types, retaining C's core advantages while optimizing the development experience. All codes in this project are fully commented, with unified structure and test cases, supporting online preview on GitHub and local compilation & execution.
+This project focuses on algorithm practices in both languages, covering core fields such as basic data structures, sorting algorithms, search algorithms, graph theory algorithms, dynamic programming, and mathematical algorithms. Each algorithm is implemented in both Zig and C3 versions with a unified code structure and detailed comments, facilitating comparative learning of the syntax differences and programming paradigms of the two languages.
 
-All source codes are open-source and free, supporting direct cloning, compilation, modification and secondary distribution. Contributions are welcome from all developers.
+All source code in this project is open-source and free, supporting direct cloning, compilation, modification, and redistribution. Developers are welcome to submit optimization suggestions, add new algorithm cases, or fix code issues.
 
-Zig version: 0.15.2, C3 version: 0.7.10
+**Zig Version**: 0.15.2 | **C3 Version**: 0.7.10
+
 ## 2. Directory Structure & Code Jump Links
 
-The project is organized by algorithm types, with each algorithm corresponding to an independent source file. Click the links below to jump directly to the corresponding code page on GitHub:
+The project is organized by algorithm type, with each algorithm stored in an independent source file. Below are the core directories and precise code jump links — click to navigate directly to the corresponding GitHub code page:
+
+### 2.1 Sorting Algorithms
 
 - **Bubble Sort**
 
-    - Zig implementation: [mp.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
+    - Zig Implementation: [mp.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
 
-    - C3 implementation: [mp.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
+    - C3 Implementation: [mp.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
 
 - **Bucket Sort**
 
-    - Zig implementation: [t.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
+    - Zig Implementation: [t.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
 
-    - C3 implementation: [t.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
-    - 
-## 3. Local Compilation & Execution
+    - C3 Implementation: [t.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
 
-### 3.1 Run Zig Code
+## 3. Local Compilation & Execution Instructions
 
-1. Install the latest Zig compiler: [Zig Official Download](https://ziglang.org/download/)
+### 3.1 Running Zig Code
+
+1. Install the latest Zig compiler: [Zig Download Page](https://ziglang.org/download/)
 
 2. Clone the project locally: `git clone https://github.com/[Your GitHub Username]/[Your Project Name].git`
 
-3. Enter the source code directory and run: `zig run filename.zig`
+3. Navigate to the corresponding source directory and run: `zig run filename.zig`
 
-### 3.2 Run C3 Code
+### 3.2 Running C3 Code
 
-1. Install C3 compiler: [C3 Compiler Repository](https://github.com/c3lang/c3c)
+1. Install the C3 compiler: [C3 Compiler Repository](https://github.com/c3lang/c3c)
 
-2. Enter the source code directory and compile: `c3c build filename.c3`
+2. Navigate to the corresponding source directory and compile: `c3c compile filename.c3`
 
-3. Run the generated executable file to check algorithm results
+3. Run the generated executable file to view the algorithm results
 
-## 4. Contribution Guide
+## 4. Contribution Guidelines
 
-Pull requests are welcome for adding new algorithms, optimizing code, fixing bugs or adding comments. Contribution requirements:
+Pull Requests are welcome for adding new algorithms, optimizing code, fixing bugs, or supplementing comments. Contribution requirements:
 
-- Standard code format, clear comments and rigorous logic
+- Standard code formatting, clear comments, and rigorous logic
 
 - Implement both Zig and C3 versions (except for special algorithms)
 
-- Attach simple test cases to verify algorithm correctness
-
----
+- Include simple test cases to verify algorithm correctness
+> （注：文档部分内容可能由 AI 生成）
