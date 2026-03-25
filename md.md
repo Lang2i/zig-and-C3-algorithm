@@ -36,15 +36,15 @@ The project is organized by algorithm type, with each algorithm stored in an ind
 
 - **Bubble Sort**
 
-    - Zig Implementation: [mp.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
+    - Zig Implementation: [zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
 
-    - C3 Implementation: [mp.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
+    - C3 Implementation: [c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
 
 - **Bucket Sort**
 
-    - Zig Implementation: [t.zig](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
+    - Zig Implementation: [zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
 
-    - C3 Implementation: [t.c3](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
+    - C3 Implementation: [c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
 
 ## 3. Local Compilation & Execution Instructions
 
