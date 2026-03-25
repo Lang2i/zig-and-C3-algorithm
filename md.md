@@ -44,7 +44,7 @@ The project is classified by algorithm type, and each algorithm corresponds to a
 
 ### 3.2 C3 Code Execution
 
-1. Install the C3 compiler: [C3 Compiler Repository](https://github.com/c3lang/c3c)
+1. Install the C3 compiler: [C3 Compiler Repository](https://github.com/c3lang/c3c) or [C3 Official Download](https://c3-lang.org/)
 
 2. Enter the corresponding source code directory and run the compilation command: `c3c compile filename.c3`
 
