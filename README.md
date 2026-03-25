@@ -42,6 +42,12 @@ zig版本为0.15.2   C3版本为0.7.10
     - Zig 实现：[zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
 
     - C3 实现：[c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
+ 
+- **快速排序  (Quick Sort)**
+
+    - Zig 实现：[zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/QuickSort.zig)
+
+    - C3 实现：[c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/QuickSort.c3)
 ## 三、本地编译与运行说明
 
 ### 3.1 Zig 代码运行
