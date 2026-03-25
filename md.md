@@ -45,6 +45,12 @@ The project is organized by algorithm type, with each algorithm stored in an ind
     - Zig Implementation: [zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/t.zig)
 
     - C3 Implementation: [c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/t.c3)
+ 
+- **Quick Sort**
+
+    - Zig Implementation：[zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/QuickSort.zig)
+
+    - C3 Implementation：[c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/QuickSort.c3)
 
 ## 3. Local Compilation & Execution Instructions
 
