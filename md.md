@@ -16,7 +16,7 @@ Click the links below to quickly switch between language versions:
 
 ---
 
-# 🇬🇧 English Version
+# English Version
 
 ## 1. Project Overview
 
