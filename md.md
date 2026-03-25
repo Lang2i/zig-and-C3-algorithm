@@ -16,7 +16,7 @@ Click the links below to quickly switch between language versions:
 
 ---
 
-# English Version
+# 🇬🇧 English Version
 
 ## 1. Project Overview
 
@@ -87,5 +87,5 @@ Pull requests are welcome for new algorithms, code optimizations, bug fixes, or 
 - Implement both Zig and C3 versions (except for special cases)
 
 - Include simple test cases to verify correctness
-- 语句流畅自然，符合海外开发者阅读习惯
-> （注：文档部分内容可能由 AI 生成）
+
+---
