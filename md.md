@@ -36,9 +36,9 @@ Algorithms are organized by type. Each algorithm has an independent source file.
 
 - **Bubble Sort**
 
-    - Zig: [zig in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/zig/mp.zig)
+    - Zig: [zig in here](https://github.com/Lang2i/-Bubble-Sort-zig/blob/main/mp.zig)
 
-    - C3: [c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/mp.c3)
+    - C3: [c3 in here](https://github.com/Lang2i/-Bubble-Sort-zig/blob/main/zig.c3)
 
 - **Bucket Sort**
 
