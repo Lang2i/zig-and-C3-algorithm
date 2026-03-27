@@ -66,6 +66,12 @@ Algorithms are organized by type. Each algorithm has an independent source file.
 
     - C3: [c3 in here](https://github.com/Lang2i/zig-and-C3-algorithm/blob/main/c3/queque_two.c3)
 
+- **Static Stack**
+
+    - Zig: [zig in here](https://github.com/Lang2i/zig-and-c3-Stack/blob/main/Stack.zig)
+
+    - C3: [c3 in here](https://github.com/Lang2i/zig-and-c3-Stack/blob/main/Stack.c3)
+
 ## 3. Local Compilation & Running Instructions
 
 ### 3.1 Zig Code Execution
