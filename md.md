@@ -71,7 +71,12 @@ Algorithms are organized by type. Each algorithm has an independent source file.
     - Zig: [zig in here](https://github.com/Lang2i/zig-and-c3-Stack/blob/main/Stack.zig)
 
     - C3: [c3 in here](https://github.com/Lang2i/zig-and-c3-Stack/blob/main/Stack.c3)
+ 
+- **Singly Linked List**
 
+    - Zig: [zig in here](https://github.com/Lang2i/Singly-Linked-List/blob/main/LB.zig)
+
+    - C3: [c3 in here](https://github.com/Lang2i/Singly-Linked-List/blob/main/LB.c3)
 ## 3. Local Compilation & Running Instructions
 
 ### 3.1 Zig Code Execution
